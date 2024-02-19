@@ -1,4 +1,4 @@
-# Image-encryption
+# Image encryption (Steganography):
 
 This is a project around Steganography, the art and science of hiding information by embedding messages within seemingly harmless image files.
 
