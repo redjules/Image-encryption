@@ -19,7 +19,31 @@ if we now upload the image in the "Decode hidden message" section and write the 
 
 ![Screenshot 2024-02-19 at 11 32 05](https://github.com/redjules/Image-encryption/assets/106017493/c7a47780-3340-4314-8c17-d7513e7f1f08)
 
+Installation
+You can install the all requirements from requirements.txt by using pip.
 
+pip install -r requirements.txt
+Usage
+python imghide.py
+Encode
+
+Choose Encode in the options menu enter image description here
+
+Enter the image path (with extension) enter image description here
+
+Enter the message to be hidden enter image description here
+
+Choose a password to encrypt with AES-256 (optional) enter image description here
+
+The image is encoded and saved as a PNG file.
+
+Decode
+
+Choose Decode from the menu enter image description here
+
+Enter the path of the encoded image (with extension) and type in the password to decrypt (leave empty if no password was used) enter image description here
+
+The decoded text will be displayed on the terminal.
 
 # Python:
 
