@@ -19,6 +19,28 @@ if we now upload the image in the "Decode hidden message" section and write the 
 
 ![Screenshot 2024-02-19 at 11 32 05](https://github.com/redjules/Image-encryption/assets/106017493/c7a47780-3340-4314-8c17-d7513e7f1f08)
 
+# Python:
+
+Architecture:
+
+![Screenshot 2024-02-19 at 11 28 32](https://github.com/redjules/Image-encryption/assets/106017493/990f508a-b09d-4615-a754-800bde55e847)
+
+To encode the message:
+
+![Screenshot 2024-02-19 at 11 36 51](https://github.com/redjules/Image-encryption/assets/106017493/f9c5d979-1c4c-47d3-89d7-2398ddf3d921)
+
+To decode the message:
+
+
+![Screenshot 2024-02-19 at 11 37 39](https://github.com/redjules/Image-encryption/assets/106017493/2cf474d1-4cd8-4b21-9f72-09751082bc42)
+
+
+![Screenshot 2024-02-19 at 11 38 16](https://github.com/redjules/Image-encryption/assets/106017493/2e96f37e-0e59-4491-8ef8-918fc6e1a187)
+
+Check the Python code in the attachments.
+
+
+
 Installation
 You can install the all requirements from requirements.txt by using pip.
 
@@ -44,23 +66,3 @@ Choose Decode from the menu enter image description here
 Enter the path of the encoded image (with extension) and type in the password to decrypt (leave empty if no password was used) enter image description here
 
 The decoded text will be displayed on the terminal.
-
-# Python:
-
-Architecture:
-
-![Screenshot 2024-02-19 at 11 28 32](https://github.com/redjules/Image-encryption/assets/106017493/990f508a-b09d-4615-a754-800bde55e847)
-
-To encode the message:
-
-![Screenshot 2024-02-19 at 11 36 51](https://github.com/redjules/Image-encryption/assets/106017493/f9c5d979-1c4c-47d3-89d7-2398ddf3d921)
-
-To decode the message:
-
-
-![Screenshot 2024-02-19 at 11 37 39](https://github.com/redjules/Image-encryption/assets/106017493/2cf474d1-4cd8-4b21-9f72-09751082bc42)
-
-
-![Screenshot 2024-02-19 at 11 38 16](https://github.com/redjules/Image-encryption/assets/106017493/2e96f37e-0e59-4491-8ef8-918fc6e1a187)
-
-Check the Python code in the attachments.
