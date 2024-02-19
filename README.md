@@ -45,7 +45,10 @@ Installation
 You can install the all requirements from requirements.txt by using pip.
 
 pip install -r requirements.txt
+
 Usage
+
 python imghide.py
+
 Encode
 
