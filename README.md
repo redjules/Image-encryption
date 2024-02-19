@@ -49,20 +49,3 @@ Usage
 python imghide.py
 Encode
 
-Choose Encode in the options menu enter image description here
-
-Enter the image path (with extension) enter image description here
-
-Enter the message to be hidden enter image description here
-
-Choose a password to encrypt with AES-256 (optional) enter image description here
-
-The image is encoded and saved as a PNG file.
-
-Decode
-
-Choose Decode from the menu enter image description here
-
-Enter the path of the encoded image (with extension) and type in the password to decrypt (leave empty if no password was used) enter image description here
-
-The decoded text will be displayed on the terminal.
